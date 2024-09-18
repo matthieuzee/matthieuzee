@@ -27,8 +27,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
----
-> Ceci n'est pas une pipe
-> 
-\- René Magritte
