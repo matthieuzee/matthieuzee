@@ -1,9 +1,8 @@
 ## Hey there! 👋 I'm Matthieu Zee!
 
 ![icegif-17](https://github.com/user-attachments/assets/ed8613f5-368d-4638-82d9-8124148aaea4)
-![A gif of an animated anthropomorphic apple waving. It reads "Welcome!" ]([URL-to-your-GIF](https://github.com/user-attachments/assets/ed8613f5-368d-4638-82d9-8124148aaea4))
 
-Thanks for visiting this page! I am a communications and media studies student researching social media and political learning. I'm new to Github and excited to explore to explore the opportunities it presents. A little about myself:
+Thanks for visiting this page! I am a communications and media studies student researching social media and political learning. I'm new to Github and excited to explore the opportunities it presents! A little about myself:
 
 <details> 
   <summary> 🧐 My research interests include: 
