@@ -7,10 +7,10 @@ Thanks for visiting this page! I am a communications and media studies student r
 <details> 
   <summary> 🧐 My research interests include: 
   </summary>
-  include new modes of sociological propaganda and the cultural consumption of politics online.
+  new modes of sociological propaganda and the cultural consumption of politics online.
 </details>
 <details> <summary> 📚 I'm currently building: </summary> a foundation in text analysis in Python, which I hope to sue as a tool in my research.</details>
-<details> <summary> 🤝 I'm looking to collaborate with:</summary>peers intersted in text analysis for social science research.</details>
+<details> <summary> 🤝 I'm looking to collaborate with:</summary>peers interested in text analysis for social science research.</details>
 <details> <summary> 😄 Pronouns:</summary>he/him</details>
 
 <!--
